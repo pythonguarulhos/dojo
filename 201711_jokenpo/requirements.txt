@@ -1,0 +1,4 @@
+pytest
+pytest-notify
+pytest-watch
+ipdb
